@@ -1,2 +1,2 @@
-# Lords Unity Tools and SKDs
+# Lords Unity Tools and SDKs
 Unity tools for LordsByDefinition.
