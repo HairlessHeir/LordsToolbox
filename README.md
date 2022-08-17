@@ -1,2 +1,1 @@
-# Lords Unity Tools and SDKs
-Unity tools for LordsByDefinition.
+#Tools for game development, art and other magical stuff <3
